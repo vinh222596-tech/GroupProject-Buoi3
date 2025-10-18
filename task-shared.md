@@ -1,3 +1,5 @@
-# Task vinh (nội dung branch develop)
+# Task Shared
 
-* Task nhân (nội dung branch feature-vinh và feature)
+- Nhân sửa nội dung task
+
+- Vinh sửa nội dung task
