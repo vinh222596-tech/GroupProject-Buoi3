@@ -1,1 +1,2 @@
-- Vinh sửa file gruop note
+- Vinh sửa file group note
+- Nhân thêm ghi chú chung nhóm
